@@ -24,6 +24,8 @@ The notebook includes:
 * D-Tale interactive analysis
 
 ---
+## Data Flow 
+![logo](https://github.com/Zohaibcode740/Automated-Exploratory-Data-Analysis-/blob/main/dataflow.jpg)
 
 ## 📁 Project Structure
 
